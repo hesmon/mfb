@@ -3,13 +3,12 @@
 ## Overview
 - **Instructor**: [Hesam Montazeri](http://lcbb.ut.ac.ir) (hesam.montazeri at ut.ac.ir)
 - **Teaching Assistant**: Sajedeh Bahonar (sajedeh.bahonar at ut.ac.ir) 
-- **Time & Location**: Sep-Dec 2020 (online lectures).
+- **Time & Location**: Nov 2020 to Jan 2021 (online lectures).
 ### Textbooks
 - [ITP] Blitzstein, Joseph K., and Jessica Hwang. Introduction to probability. Crc Press, 2019.
-- Diez, David M., Christopher D. Barr, and Mine Cetinkaya-Rundel. OpenIntro statistics. OpenIntro, Fourth Edition, 2019. 
-- Deisenroth, Marc Peter, A. Aldo Faisal, and Cheng Soon Ong. Mathematics for machine learning. Cambridge University Press, 2020.
-- Rosen, Kenneth H., and Kamala Krithivasan. Discrete mathematics and its applications: with combinatorics and graph theory. Tata McGraw-Hill Education, 2012.
-
+- [OpI] Diez, David M., Christopher D. Barr, and Mine Cetinkaya-Rundel. OpenIntro statistics. OpenIntro, Fourth Edition, 2019. 
+- [MML] Deisenroth, Marc Peter, A. Aldo Faisal, and Cheng Soon Ong. Mathematics for machine learning. Cambridge University Press, 2020.
+- [DMA] Rosen, Kenneth H., and Kamala Krithivasan. Discrete mathematics and its applications: with combinatorics and graph theory. Tata McGraw-Hill Education, 2012.
 
 ### Exam
 - Fall 2020
