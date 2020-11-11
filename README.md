@@ -16,4 +16,4 @@
 ## Lecture Schedule
 Week | Lecture | Reading Assignments | Homeworks  |
  ------------- | -------------------------- | ------------- | ------------- | 
-W1 | (18/8/1399) Lecture 1- Introduction to probability; counting; story proof ([slides](https://drive.google.com/file/d/1DhjPNEmq8-GuHFuudj93SuU7O8N69uKM/view?usp=sharing), [video](https://drive.google.com/file/d/13QxNf6me_C7tb5vXt9oc6URTt5vJ2nSw/view?usp=sharing)) <br> <br>   Lecture 2- | **Required:** ITP, Ch. 1 | [HW1](https://drive.google.com/file/d/16v6swVJ_oGvvX6ZimxvdvYmEOCmD0TK9/view?usp=sharing) |
+W1 | (18/8/1399) Lecture 1- Introduction to probability; counting; story proof ([slides](https://drive.google.com/file/d/1DhjPNEmq8-GuHFuudj93SuU7O8N69uKM/view?usp=sharing), [video](https://drive.google.com/file/d/13QxNf6me_C7tb5vXt9oc6URTt5vJ2nSw/view?usp=sharing)) <br> <br>   Lecture 2-  <br> <br> Tutorial 1: On Karyotyping [Video](https://drive.google.com/file/d/1Vrohbe0S4SPjfMrOKUK1rh9eYmm44qnb/view?usp=sharing) | **Required:** ITP, Ch. 1 | [HW1](https://drive.google.com/file/d/16v6swVJ_oGvvX6ZimxvdvYmEOCmD0TK9/view?usp=sharing)  |
