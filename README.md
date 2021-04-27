@@ -14,6 +14,8 @@
 - Fall 2020
 
 ## Lecture Schedule
+
+### Module A: Probability
 \# | Lecture | Reading Assignments | Homeworks  |
  ------------- | -------------------------- | ------------- | ------------- | 
 1 |  Lecture 1- Introduction to probability; counting; Birthday paradox; story proof ([slides](https://drive.google.com/file/d/1DhjPNEmq8-GuHFuudj93SuU7O8N69uKM/view?usp=sharing), [video](https://drive.google.com/file/d/13QxNf6me_C7tb5vXt9oc6URTt5vJ2nSw/view?usp=sharing)) <br> <br>  Lecture 2- probability axioms; inclusion-exclusion principle ([slides](https://drive.google.com/file/d/1A_cDbmO7RmEydjbvPs3IanJ3aKptIieZ/view?usp=sharing), [video](https://drive.google.com/file/d/1PAHz8hzBA-E7RqjNw2ejRxrfa2X2kCfS/view?usp=sharing)) <br> <br> Tutorial 1- On Karyotyping by Sajedeh Bahonar ([video](https://drive.google.com/file/d/1Vrohbe0S4SPjfMrOKUK1rh9eYmm44qnb/view?usp=sharing)) | **Required:** ITP, Ch. 1 | [HW1](https://drive.google.com/file/d/16v6swVJ_oGvvX6ZimxvdvYmEOCmD0TK9/view?usp=sharing)  | 
@@ -32,4 +34,7 @@
 13 | Lecture 24- Central limit theorem; Chi-square and Student-t distributions([slides](https://drive.google.com/file/d/1NXjGk2cS6hQ5TvcpdWAoSW7ElIsLGim5/view?usp=sharing), [video](https://drive.google.com/file/d/1JyXIv9rAKLlsQZQiJXXcOLAgvqiWmDVZ/view?usp=sharing)) <br> <br>  | **Required:** ITP, Ch. 10 | HW13|
 
 
-
+### Module B: Statistics
+\# | Lecture | Reading Assignments | Homeworks  |
+ ------------- | -------------------------- | ------------- | ------------- | 
+1 |  Lecture 1- Introduction to data ([slides](https://drive.google.com/file/d/12iZkO8mwpgu_AzSeVSK4D9XORR11yH_R/view?usp=sharing), [video](https://drive.google.com/file/d/10iGgDakWClYly7HiAuLgnN0sh-9DWLPF/view?usp=sharing)) | **Required:** OR, Ch. 1-2 | HW_B1  |
