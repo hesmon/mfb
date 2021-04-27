@@ -36,4 +36,4 @@
 ### Module B: Statistics
 \# | Lecture | Reading Assignments | Homeworks  |
  ------------- | -------------------------- | ------------- | ------------- | 
-14 |  Lecture B1- Introduction to data ([slides](https://drive.google.com/file/d/12iZkO8mwpgu_AzSeVSK4D9XORR11yH_R/view?usp=sharing), [video](https://drive.google.com/file/d/10iGgDakWClYly7HiAuLgnN0sh-9DWLPF/view?usp=sharing)) | **Required:** OpI, Ch. 1-2 | HW_B1  |
+1 |  Lecture B1- Introduction to data ([slides](https://drive.google.com/file/d/12iZkO8mwpgu_AzSeVSK4D9XORR11yH_R/view?usp=sharing), [video](https://drive.google.com/file/d/10iGgDakWClYly7HiAuLgnN0sh-9DWLPF/view?usp=sharing)) | **Required:** OpI, Ch. 1-2 | HW_B1  |
