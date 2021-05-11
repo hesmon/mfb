@@ -38,4 +38,4 @@
 \# | Lecture | Reading Assignments | Homeworks  |
  ------------- | -------------------------- | ------------- | ------------- | 
 1 |  Lecture B1- Introduction to data ([slides](https://drive.google.com/file/d/12iZkO8mwpgu_AzSeVSK4D9XORR11yH_R/view?usp=sharing), [video](https://drive.google.com/file/d/10iGgDakWClYly7HiAuLgnN0sh-9DWLPF/view?usp=sharing)) | **Required:** OpI, Ch. 1-2 | [HW_B1](https://drive.google.com/file/d/1K7M-VsWJ1hd4EtRkTN7ern64HyZznNgJ/view?usp=sharing)  |
-2 |  Lecture B2- Paramater estimation; Survey sampling ([slides](https://drive.google.com/file/d/1QLgVBZRMvzzrafMmAtWvmOOqBpgPSxm9/view?usp=sharing), [video](https://drive.google.com/file/d/1xPhxG-x9-U4JIRdDVoIQMEudP_AVNZxN/view?usp=sharing)) | **Required:** MSDA, Ch.7;  OpI, Ch. 5 | HW_B2  |
+2 |  Lecture B2- Paramater estimation; Survey sampling ([slides](https://drive.google.com/file/d/1QLgVBZRMvzzrafMmAtWvmOOqBpgPSxm9/view?usp=sharing), [video](https://drive.google.com/file/d/1xPhxG-x9-U4JIRdDVoIQMEudP_AVNZxN/view?usp=sharing)) | **Required:** MSDA, Ch.7;  OpI, Ch. 5 | [HW_B2](https://drive.google.com/file/d/1dB44I_GoOEpR2mxaSc5SuXOgL0nJZQk5/view?usp=sharing)  |
