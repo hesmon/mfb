@@ -9,6 +9,7 @@
 - [OpI] Diez, David M., Christopher D. Barr, and Mine Cetinkaya-Rundel. OpenIntro statistics. OpenIntro, Fourth Edition, 2019. 
 - [MML] Deisenroth, Marc Peter, A. Aldo Faisal, and Cheng Soon Ong. Mathematics for machine learning. Cambridge University Press, 2020.
 - [DMA] Rosen, Kenneth H., and Kamala Krithivasan. Discrete mathematics and its applications: with combinatorics and graph theory. Tata McGraw-Hill Education, 2012.
+- [MSDA] John A. Rice, Mathematical Statistics And Data Analysis, Third edition, 2007.
 
 ### Exam
 - Fall 2020
