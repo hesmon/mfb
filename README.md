@@ -3,7 +3,7 @@
 ## Overview
 - **Instructor**: [Hesam Montazeri](http://lcbb.ut.ac.ir) (hesam.montazeri at ut.ac.ir)
 - **Teaching Assistant**: Sajedeh Bahonar (sajedeh.bahonar at ut.ac.ir) 
-- **Time & Location**: Nov 2020 to Jan 2021 (online lectures)
+- **Time & Location**: 2020-2021 (online lectures)
 ### Textbooks
 - [ITP] Blitzstein, Joseph K., and Jessica Hwang. Introduction to probability. Crc Press, 2019 ([download](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view))
 - [OpI] Diez, David M., Christopher D. Barr, and Mine Cetinkaya-Rundel. OpenIntro statistics. OpenIntro, Fourth Edition, 2019. 
