@@ -2,7 +2,7 @@
 
 ## Overview
 - **Instructor**: [Hesam Montazeri](http://lcbb.ut.ac.ir) (hesam.montazeri at ut.ac.ir)
-- **Teaching Assistants**: Sajedeh Bahonar (sajedeh.bahonar at ut.ac.ir) and Behnaz Hoseyni (  at ut.ac.ir) 
+- **Teaching Assistants**: Sajedeh Bahonar (sajedeh.bahonar at ut.ac.ir) and Behnaz Hoseyni (behnaz.hoseyni.h at ut.ac.ir) 
 - **Time & Location**: 2021-2022 (online lectures)
 ### Textbooks
 - [ITP] Blitzstein, Joseph K., and Jessica Hwang. Introduction to probability. Crc Press, 2019 ([download](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view))
