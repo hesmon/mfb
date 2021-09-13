@@ -12,6 +12,9 @@
 - [MSDA] John A. Rice, Mathematical Statistics And Data Analysis, Third edition, 2007.
 - [PRML] Pattern Recognition and Machine Learning by Christopher Bishop, 2006. 
 
+### Previous Offerings
+- [Fall 2020-Spring2021](PreviousOfferings/Fall2020/) 
+- 
 ## Lecture Schedule
 
 ### Module A: Probability
