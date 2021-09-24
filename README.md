@@ -22,14 +22,15 @@
  ------------- | -------------------------- | ------------- | ------------- | 
 1 |  Lecture 1- Introduction to probability; counting; Birthday paradox; story proof (slides, video) <br> <br>  Lecture 2- probability axioms; inclusion-exclusion principle (slides, video) <br> <br> Tutorial 1- Introduction to R, RStudio; Basic plotting functions in R By Sajedeh Bahonar  | **Required:** ITP, Ch. 1 | [HW_A1](https://drive.google.com/file/d/15ieTOp1S7aLuhAMHewnKruWxuXEeylmm/view?usp=sharing) | 
 
+<br>
 
 ### Module B: Statistics
 \# | Lecture | Reading Assignments | Homeworks  |
  ------------- | -------------------------- | ------------- | ------------- | 
 
 
-
-#### Textbook assignments
+<br> <br> 
+## Textbook assignments
 Textbook | Chapter | Homeworks  |
 -------- | ---- | -------------------------------------- |
 ITP | Ch. 1 | 10, 11, 14, 18, 40, 49, 60 |
