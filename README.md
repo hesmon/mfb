@@ -20,7 +20,7 @@
 ### Module A: Probability
 \# | Lecture | Reading Assignments | Homeworks  |
  ------------- | -------------------------- | ------------- | ------------- | 
-1 |  Lecture 1- Introduction to probability; counting; Birthday paradox; story proof (slides, video) <br> <br>  Lecture 2- probability axioms; inclusion-exclusion principle (slides, video) <br> <br> Tutorial 1- Introduction to R, RStudio; Basic plotting functions in R By Sajedeh Bahonar  | **Required:** ITP, Ch. 1 | [HW_A1](https://drive.google.com/file/d/15ieTOp1S7aLuhAMHewnKruWxuXEeylmm/view?usp=sharing) | 
+1 |  Lecture 1- Introduction to probability; counting; Birthday paradox; story proof; probability axioms; inclusion-exclusion principle ([slides](https://drive.google.com/file/d/1rIlBGc3ZRgWWJS91PwBPMK9koHY-o3kP/view?usp=sharing), video) <br> <br>  Lecture 2-   <br> <br> Tutorial 1- Introduction to R, RStudio; Basic plotting functions in R By Sajedeh Bahonar  | **Required:** ITP, Ch. 1 | [HW_A1](https://drive.google.com/file/d/15ieTOp1S7aLuhAMHewnKruWxuXEeylmm/view?usp=sharing) | 
 
 <br>
 
