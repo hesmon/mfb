@@ -20,7 +20,7 @@
 ### Module A: Probability
 \# | Lecture | Reading Assignments | Homeworks  |
  ------------- | -------------------------- | ------------- | ------------- | 
-1 |  Lecture 1- Introduction to probability; counting; Birthday paradox; story proof; probability axioms; inclusion-exclusion principle ([slides](https://drive.google.com/file/d/1rIlBGc3ZRgWWJS91PwBPMK9koHY-o3kP/view?usp=sharing), [video](https://drive.google.com/file/d/1meXN0co4PvvH3y6stxyNksQq1Y5xjF1d/view?usp=sharing)) <br> <br>  Lecture 2-   <br> <br> Tutorial 1- Introduction to R, RStudio; Basic plotting functions in R By Sajedeh Bahonar ([video](https://drive.google.com/file/d/1wwOdsTVAha4UgvJa2F_a3wTTxJVr_HJ_/view?usp=sharing)  | **Required:** ITP, Ch. 1 | [HW_A1](https://drive.google.com/file/d/15ieTOp1S7aLuhAMHewnKruWxuXEeylmm/view?usp=sharing)) | 
+1 |  Lecture 1- Introduction to probability; counting; Birthday paradox; story proof; probability axioms; inclusion-exclusion principle ([slides](https://drive.google.com/file/d/1rIlBGc3ZRgWWJS91PwBPMK9koHY-o3kP/view?usp=sharing), [video](https://drive.google.com/file/d/1meXN0co4PvvH3y6stxyNksQq1Y5xjF1d/view?usp=sharing)) <br> <br>  Lecture 2-   <br> <br> Tutorial 1- Introduction to R, RStudio; Basic plotting functions in R By Sajedeh Bahonar ([video](https://drive.google.com/file/d/1wwOdsTVAha4UgvJa2F_a3wTTxJVr_HJ_/view?usp=sharing))  | **Required:** ITP, Ch. 1 | [HW_A1](https://drive.google.com/file/d/15ieTOp1S7aLuhAMHewnKruWxuXEeylmm/view?usp=sharing) | 
 
 <br>
 
