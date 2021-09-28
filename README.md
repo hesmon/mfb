@@ -24,9 +24,11 @@
 
 <br>
 
-### Module B: Statistics
+### Module C: linear algebra, calculus, optimization![image](https://user-images.githubusercontent.com/6224142/135078176-fb961de5-0d5f-48ef-b7cc-0a39b336aca1.png)
+
 \# | Lecture | Reading Assignments | Homeworks  |
  ------------- | -------------------------- | ------------- | ------------- | 
+ 1 |  Lecture 1- A brief review linear algebra & matrix calculus | **Required:** [noted from CS229](http://cs229.stanford.edu/summer2020/cs229-linalg.pdf) |  | 
 
 
 <br> <br> 
