@@ -24,7 +24,7 @@
 
 <br>
 
-### Module C: linear algebra, calculus, optimization![image](https://user-images.githubusercontent.com/6224142/135078176-fb961de5-0d5f-48ef-b7cc-0a39b336aca1.png)
+### Module C: linear algebra, calculus, optimization
 
 \# | Lecture | Reading Assignments | Homeworks  |
  ------------- | -------------------------- | ------------- | ------------- | 
