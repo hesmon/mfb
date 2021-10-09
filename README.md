@@ -18,11 +18,11 @@
 ## Lecture Schedule
 
 ### Module A: Probability
-\# | Lecture | Reading Assignments | Homeworks  |
- ------------- | -------------------------- | ------------- | ------------- | 
-1 |  Lecture 1- Introduction to probability; counting; Birthday paradox; story proof; probability axioms; inclusion-exclusion principle ([slides](https://drive.google.com/file/d/1rIlBGc3ZRgWWJS91PwBPMK9koHY-o3kP/view?usp=sharing), [video](https://drive.google.com/file/d/1meXN0co4PvvH3y6stxyNksQq1Y5xjF1d/view?usp=sharing)) <br> <br>  Lecture 2- inclusion-exclusion principle; conditional probability ([slides](https://drive.google.com/file/d/1dk9sgAo7Hk9G_aKmepB_gwLfnQqQusAc/view?usp=sharing), [video](https://drive.google.com/file/d/1Q1EMkMX0X0YrRz8xaKlOk-_Gfb0D15ZS/view?usp=sharing))  <br> <br> Tutorial 1- Introduction to R, RStudio; Basic plotting functions in R By Sajedeh Bahonar ([video](https://drive.google.com/file/d/1wwOdsTVAha4UgvJa2F_a3wTTxJVr_HJ_/view?usp=sharing))  <br> <br> Tutorial 2- solving extra problems by Behnaz Hoseyni ([slides](https://drive.google.com/file/d/1S49J9zzrePRTsS_R-xNGHSL48fnE6tAE/view?usp=sharing), [video](https://drive.google.com/file/d/1h9kRzLuUtWQp1p1Vxq1Bs6h5fGu14ctB/view?usp=sharing)) | **Required:** ITP, Ch. 1-2 | [HW_A1](https://drive.google.com/file/d/15ieTOp1S7aLuhAMHewnKruWxuXEeylmm/view?usp=sharing) | 
-2 |  Lecture 3- conditional probability, continued; Monty Hall Problem; Simpson’s paradox | **Required:** ITP, Ch. 2-3 | | 
-3 |  Lecture 4- Gambler's ruin; Random Variables; Bernoulli and Binomial distributions | **Required:** ITP, Ch. 3 | [HW_A2](https://drive.google.com/file/d/1L_weVconRV5FtfrqgcNkc-zaxWoQ37vS/view?usp=sharing) | 
+\# | Lecture | Reading Assignments | 
+ ------------- | -------------------------- | ------------- |
+1 |  Lecture 1- Introduction to probability; counting; Birthday paradox; story proof; probability axioms; inclusion-exclusion principle ([slides](https://drive.google.com/file/d/1rIlBGc3ZRgWWJS91PwBPMK9koHY-o3kP/view?usp=sharing), [video](https://drive.google.com/file/d/1meXN0co4PvvH3y6stxyNksQq1Y5xjF1d/view?usp=sharing)) <br> <br>  Lecture 2- inclusion-exclusion principle; conditional probability ([slides](https://drive.google.com/file/d/1dk9sgAo7Hk9G_aKmepB_gwLfnQqQusAc/view?usp=sharing), [video](https://drive.google.com/file/d/1Q1EMkMX0X0YrRz8xaKlOk-_Gfb0D15ZS/view?usp=sharing))  <br> <br> Tutorial 1- Introduction to R, RStudio; Basic plotting functions in R By Sajedeh Bahonar ([video](https://drive.google.com/file/d/1wwOdsTVAha4UgvJa2F_a3wTTxJVr_HJ_/view?usp=sharing))  <br> <br> Tutorial 2- solving extra problems by Behnaz Hoseyni ([slides](https://drive.google.com/file/d/1S49J9zzrePRTsS_R-xNGHSL48fnE6tAE/view?usp=sharing), [video](https://drive.google.com/file/d/1h9kRzLuUtWQp1p1Vxq1Bs6h5fGu14ctB/view?usp=sharing)) | **Required:** ITP, Ch. 1-2 | 
+2 |  Lecture 3- conditional probability, continued; Monty Hall Problem; Simpson’s paradox | **Required:** ITP, Ch. 2-3 | 
+3 |  Lecture 4- Gambler's ruin; Random Variables; Bernoulli and Binomial distributions | **Required:** ITP, Ch. 3 |  
 
 <br>
 
@@ -32,6 +32,13 @@
  ------------- | -------------------------- | ------------- | ------------- | 
  1 |  Lecture 1- A brief review linear algebra & matrix calculus | **Required:** [notes from CS229](http://cs229.stanford.edu/summer2020/cs229-linalg.pdf) |  | 
 
+
+<br> <br> 
+## Programming assignments
+Homeworks  | Deadline
+ ------- | --------------------------------- |
+[HW_P1](https://drive.google.com/file/d/15ieTOp1S7aLuhAMHewnKruWxuXEeylmm/view?usp=sharing) | Mehr 10, 1400 |
+[HW_P2](https://drive.google.com/file/d/1L_weVconRV5FtfrqgcNkc-zaxWoQ37vS/view?usp=sharing) | Mehr 24, 1400 |
 
 <br> <br> 
 ## Textbook assignments
