@@ -38,7 +38,7 @@
 Homeworks  | Deadline
  ------- | --------------------------------- |
 [HW_P1](https://drive.google.com/file/d/15ieTOp1S7aLuhAMHewnKruWxuXEeylmm/view?usp=sharing) | Mehr 10, 1400 |
-[HW_P2](https://drive.google.com/file/d/1L_weVconRV5FtfrqgcNkc-zaxWoQ37vS/view?usp=sharing) | Mehr 24, 1400 |
+[HW_P2](https://drive.google.com/file/d/1RBeoNPZP-tMjkdVEzqVN1x8Y5wjAYpWd/view?usp=sharing) | Mehr 24, 1400 |
 
 <br> <br> 
 ## Textbook assignments
