@@ -40,6 +40,7 @@ Homeworks  | Deadline
  ------- | --------------------------------- |
 [HW_P1](https://drive.google.com/file/d/15ieTOp1S7aLuhAMHewnKruWxuXEeylmm/view?usp=sharing) | Mehr 10, 1400 |
 [HW_P2](https://drive.google.com/file/d/1RBeoNPZP-tMjkdVEzqVN1x8Y5wjAYpWd/view?usp=sharing) | Mehr 24, 1400 |
+[HW_P3](https://drive.google.com/file/d/1qJZZkzOzDea0t0KXEbd1_zgOSRNPXoVk/view?usp=sharing) | Aban 19, 1400 |
 
 <br> <br> 
 ## Textbook assignments
