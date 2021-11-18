@@ -29,6 +29,7 @@ Lecture 6- independence of RVs; Fisher exact test ([slides](https://drive.google
 Lecture 7- Expectation; Geometric and NB distributions; linearity of expectation; Indicator RVs; fundamental bridge  ([slides](https://drive.google.com/file/d/1VlEDfbJou-bEsvCkUUA_TSxN-pKjJntW/view?usp=sharing), [video](https://drive.google.com/file/d/1Mk-qfEJ5lA8Z-kPjd5-w6YE8TGPrbJce/view?usp=sharing)) | **Required:** ITP, Ch. 4 | 
 Lecture 8- LOTUS; Variance; Poisson distribution ([slides](https://drive.google.com/file/d/1QZniLyWA-dewUlWfiZ_Ia_K5z2JbQX0z/view?usp=sharing), [video](https://drive.google.com/file/d/1yX59KHr_BP1gtsVCo8WeElb8eEnwo5KV/view?usp=sharing)) | **Required:** ITP, Ch. 4 | 
 Lecture 9- Poisson distribution-continued ([slides](https://drive.google.com/file/d/1-9PRUGL7GB64UQFtHgRz_qv7_M7LCAO1/view?usp=sharing), [video](https://drive.google.com/file/d/1STO1mb04X1LUbUChCVi3qNiq0GnOuiJB/view?usp=sharing)) | **Required:** ITP, Ch. 4 | 
+Lecture 10- Continuous random variables ([slides](https://drive.google.com/file/d/1Qt0eia9tr_3hVJ65QXUBY-NuUWS0EVcy/view?usp=sharing), [video](https://drive.google.com/file/d/15VbeVGXN7rp-JvlBigLPF1WL9ShDc9AJ/view?usp=sharing)) | **Required:** ITP, Ch. 5 | 
 <br>
 
 ### Module C: linear algebra, calculus, optimization
