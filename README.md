@@ -21,7 +21,7 @@
 Lecture | Reading Assignments | 
  -------------------------- | -------------------------- |
 Lecture 1- Introduction to probability; counting; Birthday paradox; story proof; probability axioms; inclusion-exclusion principle ([slides](https://drive.google.com/file/d/1rIlBGc3ZRgWWJS91PwBPMK9koHY-o3kP/view?usp=sharing), [video](https://drive.google.com/file/d/1meXN0co4PvvH3y6stxyNksQq1Y5xjF1d/view?usp=sharing))   | **Required:** ITP, Ch. 1 | 
-Lecture 2- inclusion-exclusion principle; conditional probability ([slides](https://drive.google.com/file/d/1dk9sgAo7Hk9G_aKmepB_gwLfnQqQusAc/view?usp=sharing), [video](https://drive.google.com/file/d/1Q1EMkMX0X0YrRz8xaKlOk-_Gfb0D15ZS/view?usp=sharing)) <br> <br> Tutorial 2- solving extra problems by Behnaz Hoseyni ([slides](https://drive.google.com/file/d/1S49J9zzrePRTsS_R-xNGHSL48fnE6tAE/view?usp=sharing), [video](https://drive.google.com/file/d/1h9kRzLuUtWQp1p1Vxq1Bs6h5fGu14ctB/view?usp=sharing)) | **Required:** ITP, Ch. 2 | 
+Lecture 2- inclusion-exclusion principle; conditional probability ([slides](https://drive.google.com/file/d/1dk9sgAo7Hk9G_aKmepB_gwLfnQqQusAc/view?usp=sharing), [video](https://drive.google.com/file/d/1Q1EMkMX0X0YrRz8xaKlOk-_Gfb0D15ZS/view?usp=sharing)) <br> <br> Tutorial- solving extra problems by Behnaz Hoseyni ([slides](https://drive.google.com/file/d/1S49J9zzrePRTsS_R-xNGHSL48fnE6tAE/view?usp=sharing), [video](https://drive.google.com/file/d/1h9kRzLuUtWQp1p1Vxq1Bs6h5fGu14ctB/view?usp=sharing)) | **Required:** ITP, Ch. 2 | 
 Lecture 3- conditional probability, continued; Monty Hall Problem; Simpson’s paradox | **Required:** ITP, Ch. 2 | 
 Lecture 4- Gambler's ruin; Random Variables; Bernoulli and Binomial distributions ([slides](https://drive.google.com/file/d/1RUB28Z21JHtB7ZH2_GD_UaTI3-4bRaLU/view?usp=sharing), [video](https://drive.google.com/file/d/1op6su2gNG7TNxXByY6fAUwzKbRVnGcwC/view?usp=sharing)) | **Required:** ITP, Ch. 3 |  
 Lecture 5- Hypergeometric and Uniform distributions; CDF, functions of RVs ([slides](https://drive.google.com/file/d/1r1fPLwb92EF8e-zWUGsCzkOSme3_YR6q/view?usp=sharing), [video](https://drive.google.com/file/d/1QaRvAjnQ5vpZFru77aeSCsfLO8cpvDMH/view?usp=sharing))  | **Required:** ITP, Ch. 3 | 
@@ -42,8 +42,8 @@ Lecture 7- Expectation; Geometric and NB distributions; linearity of expectation
 ## Programming assignments
 Homeworks  | Deadline | Tutorial
  ------- | --------------------------------- | ---------------------------------|
-[HW_P1](https://drive.google.com/file/d/15ieTOp1S7aLuhAMHewnKruWxuXEeylmm/view?usp=sharing) | Mehr 10, 1400 | Tutorial 1- Introduction to R, RStudio; Basic plotting functions in R By Sajedeh Bahonar ([video](https://drive.google.com/file/d/1wwOdsTVAha4UgvJa2F_a3wTTxJVr_HJ_/view?usp=sharing)) |
-[HW_P2](https://drive.google.com/file/d/1RBeoNPZP-tMjkdVEzqVN1x8Y5wjAYpWd/view?usp=sharing) | Mehr 24, 1400 | Tutorial 3- Fasta file; SNP-Density Plot By Sajedeh Bahonar ([video](https://drive.google.com/file/d/1ynIUorHMXDEoaDZYpsTAUi-vClS9PCLB/view?usp=sharing)) | 
+[HW_P1](https://drive.google.com/file/d/15ieTOp1S7aLuhAMHewnKruWxuXEeylmm/view?usp=sharing) | Mehr 10, 1400 | Introduction to R, RStudio; Basic plotting functions in R By Sajedeh Bahonar ([video](https://drive.google.com/file/d/1wwOdsTVAha4UgvJa2F_a3wTTxJVr_HJ_/view?usp=sharing)) |
+[HW_P2](https://drive.google.com/file/d/1RBeoNPZP-tMjkdVEzqVN1x8Y5wjAYpWd/view?usp=sharing) | Mehr 24, 1400 | Fasta file; SNP-Density Plot By Sajedeh Bahonar ([video](https://drive.google.com/file/d/1ynIUorHMXDEoaDZYpsTAUi-vClS9PCLB/view?usp=sharing)) | 
 [HW_P3](https://drive.google.com/file/d/1qJZZkzOzDea0t0KXEbd1_zgOSRNPXoVk/view?usp=sharing) | Aban 19, 1400 | |
 [HW_P4](https://drive.google.com/file/d/1CRLW1Hxie-D7LSIUsL-0Yw4Fj0PNekW1/view?usp=sharing) | Azar 5, 1400 | |
 
