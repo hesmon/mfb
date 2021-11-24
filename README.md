@@ -31,6 +31,7 @@ Lecture 8- LOTUS; Variance; Poisson distribution ([slides](https://drive.google.
 Lecture 9- Poisson distribution-continued ([slides](https://drive.google.com/file/d/1-9PRUGL7GB64UQFtHgRz_qv7_M7LCAO1/view?usp=sharing), [video](https://drive.google.com/file/d/1STO1mb04X1LUbUChCVi3qNiq0GnOuiJB/view?usp=sharing)) | **Required:** ITP, Ch. 4 | 
 Lecture 10- Continuous random variables ([slides](https://drive.google.com/file/d/1Qt0eia9tr_3hVJ65QXUBY-NuUWS0EVcy/view?usp=sharing), [video](https://drive.google.com/file/d/15VbeVGXN7rp-JvlBigLPF1WL9ShDc9AJ/view?usp=sharing)) | **Required:** ITP, Ch. 5 | 
 Lecture 11- Normal distribution ([slides](https://drive.google.com/file/d/1sG6aLEQJnyUbE1AyCMHHDRsFwlzjvKkS/view?usp=sharing), [video](https://drive.google.com/file/d/1db8wgKSA3ekTSzWYQ7srNEcl128BYJHB/view?usp=sharing)) | **Required:** ITP, Ch. 5 | 
+Lecture 12- Exponential distribution ([slides](https://drive.google.com/file/d/14GmRZhRDxpvN6ZT4vncWR9C9VU4mftkg/view?usp=sharing), [video](https://drive.google.com/file/d/1MnUlb_dy57pchiHjDsPIeN9SYa-0ZKqH/view?usp=sharing)) | **Required:** ITP, Ch. 5 | 
 
 ### Module C: linear algebra, calculus, optimization
 
