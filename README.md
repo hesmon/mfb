@@ -38,13 +38,6 @@ Lecture | Reading Assignments |
  -------------------------- | -------------------------- |
 Lecture 1- Introduction to data ([slides](https://drive.google.com/file/d/17tcsEBVLMaXdDIZi4Hoq4EoAOqPRcEbm/view?usp=sharing), [video](https://drive.google.com/file/d/1wXAg054X3rjm5HogNciJQojcy5mkgCJE/view?usp=sharing))   | **Required:** OpI, Ch. 1-2 | 
 
-### Module C: Linear algebra, calculus, optimization
-
-\# | Lecture | Reading Assignments | Homeworks  |
- ------------- | -------------------------- | ------------- | ------------- | 
- 1 |  Lecture 1- A brief review linear algebra & matrix calculus | **Required:** [notes from CS229](http://cs229.stanford.edu/summer2020/cs229-linalg.pdf) |  | 
-
-
 <br> <br> 
 ## Programming assignments
 Homeworks  | Deadline | Tutorial
