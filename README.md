@@ -32,6 +32,7 @@ Lecture A9- Poisson distribution-continued ([slides](https://drive.google.com/fi
 Lecture A10- Continuous random variables ([slides](https://drive.google.com/file/d/1Qt0eia9tr_3hVJ65QXUBY-NuUWS0EVcy/view?usp=sharing), [video](https://drive.google.com/file/d/15VbeVGXN7rp-JvlBigLPF1WL9ShDc9AJ/view?usp=sharing)) | **Required:** ITP, Ch. 5 | 
 Lecture A11- Normal distribution ([slides](https://drive.google.com/file/d/1sG6aLEQJnyUbE1AyCMHHDRsFwlzjvKkS/view?usp=sharing), [video](https://drive.google.com/file/d/1db8wgKSA3ekTSzWYQ7srNEcl128BYJHB/view?usp=sharing)) | **Required:** ITP, Ch. 5 | 
 Lecture A12- Exponential distribution ([slides](https://drive.google.com/file/d/14GmRZhRDxpvN6ZT4vncWR9C9VU4mftkg/view?usp=sharing), [video](https://drive.google.com/file/d/1MnUlb_dy57pchiHjDsPIeN9SYa-0ZKqH/view?usp=sharing)) | **Required:** ITP, Ch. 5 | 
+Lecture A13- Summaries of a distribution; moment generating functions ([slides](https://drive.google.com/file/d/1szzypN8j3sBF3iGuO2oqkst1_BRFTGF8/view?usp=sharing), [video](https://drive.google.com/file/d/1Fc-E9f0-G4yJBDv8wqUptyw6Sn4E_kyR/view?usp=sharing)) | **Required:** ITP, Ch. 6 | 
 
 ### Module B: Statistics
 Lecture | Reading Assignments | 
