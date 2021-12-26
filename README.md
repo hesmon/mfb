@@ -39,7 +39,7 @@ Lecture | Reading Assignments |
  -------------------------- | -------------------------- |
 Lecture B1- Introduction to data ([slides](https://drive.google.com/file/d/17tcsEBVLMaXdDIZi4Hoq4EoAOqPRcEbm/view?usp=sharing), [video](https://drive.google.com/file/d/1wXAg054X3rjm5HogNciJQojcy5mkgCJE/view?usp=sharing))   | **Required:** OpI, Ch. 1-2 | 
 Lecture B2- Paramater estimation; survey sampling; confidence interval ([slides](https://drive.google.com/file/d/16VQxGSci2MNQYZ1_CwuTLQrH8r01x8_l/view?usp=sharing), [video](https://drive.google.com/file/d/1kCykjJBTnJckBtIXn9_ibEzmTbdpb-bO/view?usp=sharing)) | **Required:** MSDA, Ch.7;  OpI, Ch. 5 | 
-Lecture B3- method of moments ([slides](https://drive.google.com/file/d/11HwnQK01--0hBKCNrwGe_TElkha_nnHE/view?usp=sharing), [video](https://drive.google.com/file/d/11HwnQK01--0hBKCNrwGe_TElkha_nnHE/view?usp=sharing)) | **Required:** MSDA, Ch.8| 
+Lecture B3- method of moments ([slides](https://drive.google.com/file/d/11HwnQK01--0hBKCNrwGe_TElkha_nnHE/view?usp=sharing), [video](https://drive.google.com/file/d/1wa3uOWjp27kNuzz-HMb5hYpiSpNgl2KC/view?usp=sharing)) | **Required:** MSDA, Ch.8| 
 
 
 <br> <br> 
