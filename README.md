@@ -21,7 +21,7 @@
 ### Module A: Probability
 Lecture | Reading Assignments | 
  -------------------------- | -------------------------- |
-Lecture A1- Introduction to probability; counting; Birthday paradox; story proof; probability axioms; inclusion-exclusion principle ([slides](https://drive.google.com/file/d/1rIlBGc3ZRgWWJS91PwBPMK9koHY-o3kP/view?usp=sharing), [video](https://youtu.be/zeeFFjZYBWI))   | **Required:** ITP, Ch. 1 | 
+Lecture A1- Introduction to probability; counting; Birthday paradox; story proof; probability axioms; inclusion-exclusion principle ([slides](https://drive.google.com/file/d/1Gyqn1D4yYzmbw3pWqs1o-p0qr6zo5Mca/view?usp=sharing), [YT video](https://youtu.be/zeeFFjZYBWI))   | **Required:** ITP, Ch. 1 | 
 
 <br> <br> 
 ## Programming assignments
