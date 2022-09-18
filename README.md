@@ -27,7 +27,7 @@ Lecture A1- Introduction to probability; counting; Birthday paradox; story proof
 ## Programming assignments
 Homeworks  | Deadline | Tutorial
  ------- | --------------------------------- | ---------------------------------|
-[HW_P1](https://drive.google.com/file/d/1l-9gE4PvSOY89zGzuiNzOLt7ssPtWyif/view?usp=sharing) | Mehr 6, 1401 | Introduction to R, RStudio; Basic plotting functions in R By Sajedeh Bahonar ([video](https://drive.google.com/file/d/1wwOdsTVAha4UgvJa2F_a3wTTxJVr_HJ_/view?usp=sharing)) |
+[HW_P1](https://drive.google.com/file/d/1LTznKnS0Ct5US_iNUHBz854PiWNE2h1b/view?usp=sharing) | Mehr 6, 1401 | Introduction to R, RStudio; Basic plotting functions in R By Sajedeh Bahonar ([video](https://drive.google.com/file/d/1wwOdsTVAha4UgvJa2F_a3wTTxJVr_HJ_/view?usp=sharing)) |
 
 <br> <br> 
 ## Textbook assignments
