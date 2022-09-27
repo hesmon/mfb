@@ -22,7 +22,8 @@
 Lecture | Reading Assignments | 
  -------------------------- | -------------------------- |
 Lecture A1- Introduction to probability; counting; Birthday paradox; story proof; probability axioms; inclusion-exclusion principle ([slides](https://drive.google.com/file/d/1Gyqn1D4yYzmbw3pWqs1o-p0qr6zo5Mca/view?usp=sharing), [video](https://youtu.be/zeeFFjZYBWI))   | **Required:** ITP, Ch. 1 |  
-Lecture A2- conditional probability ([slides](https://docs.google.com/presentation/d/17x4HWNqO8emNejLVHtMOSuxKmLBjjtOJ/edit?usp=sharing&ouid=104153414916579885395&rtpof=true&sd=true), [video](https://youtu.be/zeeFFjZYBWI))   | **Required:** ITP, Ch. 1 |  
+Lecture A2- conditional probability ([slides](https://drive.google.com/file/d/1zqGfe9AJLGllP7cwZv0BrNPs-iS1FTH6/view?usp=sharing)) <br> <br>
+A2- part 1 conditional probability; Two children problem ([video](https://youtu.be/p3AyDcmpVNk)) <br>| **Required:** ITP, Ch. 1 |  
 
 <br> <br> 
 ## Programming assignments
