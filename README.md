@@ -21,9 +21,8 @@
 ### Module A: Probability
 Lecture | Reading Assignments | 
  -------------------------- | -------------------------- |
-Lecture A1- Introduction to probability; counting; Birthday paradox; story proof; probability axioms; inclusion-exclusion principle ([slides](https://drive.google.com/file/d/1Gyqn1D4yYzmbw3pWqs1o-p0qr6zo5Mca/view?usp=sharing), [video](https://youtu.be/zeeFFjZYBWI))   | **Required:** ITP, Ch. 1 |  
-Lecture A2- conditional probability ([slides](https://drive.google.com/file/d/1zqGfe9AJLGllP7cwZv0BrNPs-iS1FTH6/view?usp=sharing)) <br> <br>
-A2- part 1 conditional probability; Two children problem ([video](https://youtu.be/p3AyDcmpVNk)) <br>| **Required:** ITP, Ch. 1 |  
+Lecture A1- Introduction to probability; counting; Birthday paradox; story proof; probability axioms; inclusion-exclusion principle ([slides](https://drive.google.com/file/d/1Gyqn1D4yYzmbw3pWqs1o-p0qr6zo5Mca/view?usp=sharing), [video A1](https://youtu.be/zeeFFjZYBWI))   | **Required:** ITP, Ch. 1 |  
+Lecture A2- conditional probability ([slides](https://drive.google.com/file/d/1zqGfe9AJLGllP7cwZv0BrNPs-iS1FTH6/view?usp=sharing)) <br> <br> Conditional probability; Two children problem ([video A2-part 1](https://youtu.be/p3AyDcmpVNk)) <br> Bayes’ rule; the law of total probability; Random coin problem; Testing for a rare disease  ([video A2-part 2](https://youtu.be/eLhFuH-460A)) <br> Bayes' rule with extra conditioning, independenc; coherency of Bayes' rule ([video A2-part 3](https://youtu.be/kVhQlVd778E)) <br> Monty Hall problem, Simpson’s paradox, Gambler’s ruin ([video A2-part 4](https://youtu.be/GkBQprJNkBE))   | **Required:** ITP, Ch. 2 |  
 
 <br> <br> 
 ## Programming assignments
