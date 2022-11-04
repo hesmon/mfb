@@ -30,6 +30,10 @@ Lecture A3- random variables and their distributions ([slides](https://drive.goo
 Homeworks  | Deadline | Tutorial
  ------- | --------------------------------- | ---------------------------------|
 [HW_P1](https://drive.google.com/file/d/1LTznKnS0Ct5US_iNUHBz854PiWNE2h1b/view?usp=sharing) | Mehr 6, 1401 | Introduction to R, RStudio; Basic plotting functions in R By Sajedeh Bahonar ([video](https://drive.google.com/file/d/1wwOdsTVAha4UgvJa2F_a3wTTxJVr_HJ_/view?usp=sharing)) |
+[HW_P2](https://drive.google.com/file/d/1x5eWO8JpE7kTQVdV7s7pom6JncEwlpF8/view?usp=share_link) | Aban 11, 1401 | Oncoplots |
+
+
+
 
 <br> <br> 
 ## Textbook assignments
