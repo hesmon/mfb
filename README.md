@@ -14,7 +14,7 @@
 
 ### Previous Offerings
 - [Fall 2020-Spring2021](PreviousOfferings/Fall2020/) 
-- [Fall 2021-Spring2021](PreviousOfferings/Fall2021/) 
+- [Fall 2021-Spring2022](PreviousOfferings/Fall2021/) 
 
 ## Lecture Schedule
 
